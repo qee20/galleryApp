@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "250677961803",
+    "firebase_url": "https://verycool-72c10-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "verycool-72c10",
+    "storage_bucket": "verycool-72c10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250677961803:android:ce582341f0c3b1de2e19ce",
+        "android_client_info": {
+          "package_name": "com.workingfile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250677961803-cr4l5gm2at1gr5tdq5ab5j8jcj0p9v0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5RqNhx-7FP-bQhu3V1yROHj-AVFOJZYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250677961803-cr4l5gm2at1gr5tdq5ab5j8jcj0p9v0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
